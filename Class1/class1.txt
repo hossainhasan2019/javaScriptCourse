@@ -1,0 +1,16 @@
+what is java script
+
+Front-end developer
+Back-end developer 
+Full stuck developer
+
+What can we build 
+Android & ios applications: react native
+
+Website developments : reactjs, angularjs vue js
+Server: nodejs , deno 
+
+Desktop application : electronjs
+real- time networking app (chat/video streaming app)
+
+Games
