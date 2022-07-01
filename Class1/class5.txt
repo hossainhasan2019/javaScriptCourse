@@ -1,0 +1,17 @@
+What is ES6?
+
+ES6 stands for ECMAScript v6
+ECMA is an organization which is responsible for defining standars.
+ECMAScript is a specification.
+JavaScript is an implementation of the ECMAScript stndard.
+
+ECMAScript Versions
+1997 v1
+2009 v5
+2015 v6 === ES6
+2016 v7
+2017 v8
+
+browser support link 
+
+http://kangax.github.io/compat-table/es6/
