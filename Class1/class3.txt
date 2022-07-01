@@ -1,0 +1,8 @@
+assential softwere
+
+code editor: visual studio code
+	plugins: live server
+		 icons
+
+write html basic code and link js file 
+and start java script code
