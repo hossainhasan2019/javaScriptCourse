@@ -1,0 +1,7 @@
+best usage js code 
+
+
+console.log('hello world');
+// single line comment 
+
+/* multiple line comment */
