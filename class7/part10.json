@@ -1,0 +1,9 @@
+{
+    "name" : "hossain hasan",
+    "age" : 22,
+    "friends" : ["marry", "smith"],
+    "address" : {
+        "long" : 34.34,
+        "lat" : 34.343,
+    },
+}
